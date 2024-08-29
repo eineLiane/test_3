@@ -1,2 +1,1 @@
 print("Merci")
-print('Bitte')
